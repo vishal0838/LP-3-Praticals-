@@ -1,0 +1,1 @@
+Remove the comments, special fonts from the code if any
